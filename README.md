@@ -1,5 +1,7 @@
 Existem outras entidades além dessas três?
 
+Sim xiste as entidades professor e disciplinas
+
 ⇨ Quais são os principais campos e tipos?
 
 ⇨ Como essas entidades estão relacionadas?!
